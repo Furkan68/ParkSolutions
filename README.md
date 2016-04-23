@@ -7,3 +7,5 @@ Sketch.ino is van de Arduino UNO die ik had gebruikt om de sensor te testen.
 
 De index.php bestand is de webservice bestand om een JSON object te maken voor de android app die het kan gebruiken om aan te tonen of er een parkeerplaats beschikbaar is of niet. Deze data lees ik uit met de android app die ik heb gebouwd. Het map ParkSolutions/ is de android project map. 
 
+Link naar webservice: http://furkancetin.nl/data/
+
